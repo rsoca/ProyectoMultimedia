@@ -4,7 +4,7 @@ var goodChoicePart = 18;
 var badChoicePart = 7;
 var goodChoiceChosen = false;
 
-//variable pregunta 2 video 2
+//variable pregunta 1 video 2
 var tiemposalto = 18; 
 var eleccioncorrecta = 18;
 var eleccionmala = 5;
