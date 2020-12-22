@@ -85,7 +85,7 @@ ul {
     z-index: 1;
     top: 0;
     left: 0;
-    background-image: url(/images/menu.png); /*imagen fondo arboles*/
+    background-image: url(/images/menu.png); 
     background-repeat: no-repeat;
     background-size: cover;
     border: 5px solid rgba(0, 0, 0, 0.993);;
@@ -127,7 +127,7 @@ ul {
 */
 
 .home-content {
-    height: 100%; /* controla el tamaño de lo azul*/
+    height: 100%; 
     background-color: rgba(141, 44, 44, 0.5);
     padding: 10px;
     position: relative;
@@ -137,26 +137,25 @@ ul {
   
   .home-content h1 {
     padding-top: 10px 5px;
-    font-size: 20px; /*controla tamaño html*/
-      /*text-transform: uppercase;*/
+    font-size: 20px; 
       color: rgb(255, 255, 255);
       font-weight: 300;
   }
   
-  .home-content h1 em { /* control texto stak*/
+  .home-content h1 em { 
     margin-right: 20px;
     color: rgb(0, 0, 0);
-      font-size: 50px; /*controla tamaño stak*/
+      font-size: 50px; 
       font-style: normal;
       font-weight: 800;
   }
   
   .home-content .home-box-content {
-    margin-top: 15px; /*separacion texto arriba*/
+    margin-top: 15px; 
       background-color: #df703ca1;
     position: relative;
     padding: 30px;
-    display: flex; /*ver si cambia tamaño*/
+    display: flex; 
     border: 5px solid rgba(209, 9, 9, 0);
   
   }
@@ -184,8 +183,8 @@ ul {
 
   /* las 4 partes de la web*/
   .b-red {
-    margin-bottom: -2px; /* separacion con la siguiente */
-    background-image: url(/images/back-red-1.jpg); /*imagen fondo arboles*/
+    margin-bottom: -2px; 
+    background-image: url(/images/back-red-1.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
