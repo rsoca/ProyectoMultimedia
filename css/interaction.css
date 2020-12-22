@@ -85,7 +85,7 @@ ul {
     z-index: 1;
     top: 0;
     left: 0;
-    background-image: url(/images/menu.png); 
+    background-image: url(../images/menu.png); 
     background-repeat: no-repeat;
     background-size: cover;
     border: 5px solid rgba(0, 0, 0, 0.993);;
@@ -184,7 +184,7 @@ ul {
   /* las 4 partes de la web*/
   .b-red {
     margin-bottom: -2px; 
-    background-image: url(/images/back-red-1.jpg); 
+    background-image: url(../images/back-red-1.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -193,7 +193,7 @@ ul {
   }
 
   .b-orange {
-    background-image: url(/images/back-orange-1.jpg);
+    background-image: url(../images/back-orange-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -202,7 +202,7 @@ ul {
   }
   
   .b-yellow {
-    background-image: url(/images/back-yellow-1.jpg);
+    background-image: url(../images/back-yellow-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -211,7 +211,7 @@ ul {
   }
 
   .b-gyellow {
-    background-image: url(/images/back-gyellow-1.jpg);
+    background-image: url(../images/back-gyellow-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
